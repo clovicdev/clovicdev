@@ -24,4 +24,4 @@ https://synclive.xyz
 
 ---
 
-![Clovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdnSync&title_color=57B2FF&bg_color=131516&show_icons=true&count_private=true&theme=dracula&hide=issues)
+![Clovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovicdev&title_color=57B2FF&bg_color=131516&show_icons=true&count_private=true&theme=dracula&hide=issues)
