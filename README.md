@@ -1,4 +1,4 @@
-## Hey, I am clovic!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00008b&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Welcome to my profile!" /></a>
 
 Programming languages I know:
 - Python
